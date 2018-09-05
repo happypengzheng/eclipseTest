@@ -7,7 +7,8 @@ import java.util.List;
 
 public class Test1 {
 	
-    /***
+    /***、
+     * 我是分支1
      * 获取某段时间内 所有月份的最后一天   参数2018-1 2018-5  返回 2018-01-31 2018-02-28 2018-03-31 2018-04-31 2018-05-31
      * @param minDate
      * @param maxDate
